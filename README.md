@@ -1,3 +1,5 @@
+### This project is hosted here [Let's Meet](https://lets-meet-app.netlify.app/)
+
 # How to run this project on local machine?
 First download the code zip file from this repo and extract it and open that folder in any code editor like VS code.   
 Now open terminals in lets-meet-frontend and lets-meet-server folder and run    
