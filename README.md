@@ -8,6 +8,6 @@ After installation of the depedancies in both of the folders run
 in lets-meet-frontend directory    
 and run    
 ### `node server.js`    
-in lets-meet-server directory      
+in lets-meet-server directory.      
  
 Now you can open the project on http://localhost:3000 on the local browser and server on http://localhost:5000 will be listening.
