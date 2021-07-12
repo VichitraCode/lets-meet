@@ -170,7 +170,7 @@ Now caller side will recive answer from the calle side and the remote decription
     };
 ![alt text](https://github.com/VichitraCode/lets-meet-frontend/blob/master/src/resources/Screenshot%20(163).png)
 
-#Additional features
+#Additional features       
 1.Screen share   
 2.Record the stream   
 3.Chat feature   
