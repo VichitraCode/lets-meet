@@ -1,5 +1,5 @@
 ### This project is hosted here [Let's Meet](https://lets-meet-app.netlify.app/)
-### Watch the video demo [here](https://github.com/VichitraCode/lets-meet)   
+### Watch the video demo [here](https://www.youtube.com/watch?v=Y95lMRt3Skk)   
 ## In our application we will use:     
 WebRTC      
 JavaScript      
