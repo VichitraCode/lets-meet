@@ -1,4 +1,20 @@
 ### This project is hosted here [Let's Meet](https://lets-meet-app.netlify.app/)
+## In our application we will use:     
+
+WebRTC      
+
+JavaScript      
+
+Socket.IO     
+
+Express.js    
+
+Node.js     
+
+React    
+
+Redux   
+   
 
 # How to run this project on local machine?
 If you don't have node.js installed then first install node.js on your computer from [here](https://nodejs.org/en/download/)
